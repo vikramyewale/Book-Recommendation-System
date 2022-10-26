@@ -1,5 +1,6 @@
 pandas
 numpy
 sklearn
+scipy
 streamlit 
 streamlit_lottie
