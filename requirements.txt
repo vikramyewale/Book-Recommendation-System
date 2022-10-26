@@ -2,5 +2,6 @@ pandas
 numpy
 sklearn
 scipy
+pickle
 streamlit 
 streamlit_lottie
